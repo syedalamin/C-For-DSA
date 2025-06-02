@@ -1,0 +1,1 @@
+{"name":"Local: string_input_with_space","url":"c:\\Project\\Phitron\\C++For_DSA\\Module_5\\string_input_with_space.cpp","tests":[{"id":1748714316990,"input":"10\nHello World","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Project\\Phitron\\C++For_DSA\\Module_5\\string_input_with_space.cpp","group":"local","local":true}
